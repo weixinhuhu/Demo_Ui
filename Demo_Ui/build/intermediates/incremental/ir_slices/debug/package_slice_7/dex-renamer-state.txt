@@ -1,0 +1,4 @@
+#Wed Aug 29 16:40:27 CST 2018
+base.0=/Users/weixin/AndroidStudioProjects/SurveyFrom1/Demo_Ui/build/intermediates/transforms/dexMerger/debug/8
+path.0=classes.dex
+renamed.0=classes.dex
